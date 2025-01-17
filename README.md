@@ -13,7 +13,7 @@
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, PHP, HTML, CSS, MySQL, Java],
-  tools: [React, Typescript, PostgreSQL, Symfony, Git, Angular, Git],
+  tools: [React, Typescript, PostgreSQL, Symfony, Git, Angular, MongoDB],
   architecture: ["MVC (Model-View-Controller)", "RESTful API Design", "Database Normalization"],
   techCommunities: {
                         coorganizer: "Frontend Morocco",
