@@ -1,5 +1,5 @@
 <h2> Hi, I'm Abderrahmane!</h2>
-<p><em>Front-End Developer from Morocco <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Fullstack Developer from Morocco <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: abdeelharradi](https://img.shields.io/twitter/follow/abdeelharradi)](https://twitter.com/abdeelharradi)
