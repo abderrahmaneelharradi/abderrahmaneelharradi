@@ -13,7 +13,7 @@
 const Mar = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, MySQL, Java],
-  tools: [Bootcamp, React, Typescript, PostgreSQL, Git, MongoDB],
+  tools: [Bootstrap, React, Typescript, PostgreSQL, Git, MongoDB],
   architecture: ["MVC (Model-View-Controller)", "RESTful API Design", "Database Normalization"],
   techCommunities: {
                         coorganizer: "Fullstack Morocco",
