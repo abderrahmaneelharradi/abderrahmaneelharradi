@@ -10,17 +10,17 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, PHP, HTML, CSS, MySQL, Java],
-  tools: [React, Typescript, PostgreSQL, Symfony, Git, Angular, MongoDB],
+const Mar = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, Javascript, MySQL, Java],
+  tools: [Bootcamp, React, Typescript, PostgreSQL, Git, MongoDB],
   architecture: ["MVC (Model-View-Controller)", "RESTful API Design", "Database Normalization"],
   techCommunities: {
-                        coorganizer: "Frontend Morocco",
+                        coorganizer: "Fullstack Morocco",
                         speaker: "DevFest Agadir",
                         mentor: "Self-learning sessions with juniors"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on angular and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Java"
 }
 ```
 
