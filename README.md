@@ -2,7 +2,6 @@
 <p><em>Fullstack Developer from Morocco <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: abdeelharradi](https://img.shields.io/twitter/follow/abdeelharradi)](https://twitter.com/abdeelharradi)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/abderrahmane-elharradi/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/abderrahmaneelharradi)](https://github.com/abderrahmaneelharradi)
 
