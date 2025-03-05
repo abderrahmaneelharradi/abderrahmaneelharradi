@@ -1,28 +1,5 @@
 <h2> Hi, I'm Abderrahmane!</h2>
-<p><em>Fullstack Developer from Morocco <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working as a Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>I’m a passionate full-stack developer with a strong drive to learn and innovate in the ever-evolving world of technology. Thriving in dynamic environments, I enjoy collaborating with others and leveraging my interpersonal skills to deliver impactful solutions. In my free time, I dive deeper into IT advancements, constantly expanding my knowledge and staying ahead of the curve. Technology excites me, and I’m always eager to embrace new challenges and opportunities. </br>
 </em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad)](https://www.linkedin.com/in/abderrahmane-elharradi/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/abderrahmaneelharradi)](https://github.com/abderrahmaneelharradi)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const Mar = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, MySQL, Nodejs],
-  tools: [Bootstrap, React, Typescript, PostgreSQL, Git, MongoDB],
-  architecture: ["MVC (Model-View-Controller)", "RESTful API Design", "Database Normalization"],
-  techCommunities: {
-                        coorganizer: "Fullstack Morocco",
-                        speaker: "DevFest Agadir",
-                        mentor: "Self-learning sessions with juniors"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on Java"
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jest,react,nodejs,java,mysql,git,bash,linux)](https://skillicons.dev)
