@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,ts,nodejs,mysql,mongodb,jest,express,git,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,ts,php,laravel,mysql,express,git,bash" />
   </a>
 </p>
